@@ -1,0 +1,12 @@
+tabs:
+    fields:
+        converted_images:
+            label: 'gregorybrown.gbimageresizer::lang.plugin.labels.converted_images'
+            span: auto
+            type: number
+            tab: 'gregorybrown.gbimageresizer::lang.plugin.tabs.status'
+        converted_savings:
+            label: 'gregorybrown.gbimageresizer::lang.plugin.labels.converted_savings'
+            span: auto
+            type: number
+            tab: 'gregorybrown.gbimageresizer::lang.plugin.tabs.status'

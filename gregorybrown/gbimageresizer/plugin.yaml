@@ -1,0 +1,6 @@
+plugin:
+    name: 'gregorybrown.gbimageresizer::lang.plugin.name'
+    description: 'gregorybrown.gbimageresizer::lang.plugin.description'
+    author: GregoryBrown
+    icon: oc-icon-align-justify
+    homepage: 'https://gregorybrown.com.br/'

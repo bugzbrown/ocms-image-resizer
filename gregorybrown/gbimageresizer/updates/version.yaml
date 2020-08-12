@@ -1,0 +1,4 @@
+1.0.1: First version of gbimageresizer
+1.0.2:
+  - Added Settings form
+  - Added dependency image-optimizer

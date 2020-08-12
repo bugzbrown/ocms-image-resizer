@@ -1,0 +1,5 @@
+{
+    "require": {
+        "artisansweb/image-optimizer": "^0.0.5"
+    }
+}
